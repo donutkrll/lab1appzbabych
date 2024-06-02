@@ -1,0 +1,13 @@
+D:\KHAI\apz\lab1\Lab1Solution\Lab1ControlLibrary\bin\Debug\net8.0-windows\Lab1ControlLibrary.deps.json
+D:\KHAI\apz\lab1\Lab1Solution\Lab1ControlLibrary\bin\Debug\net8.0-windows\Lab1ControlLibrary.dll
+D:\KHAI\apz\lab1\Lab1Solution\Lab1ControlLibrary\bin\Debug\net8.0-windows\Lab1ControlLibrary.pdb
+D:\KHAI\apz\lab1\Lab1Solution\Lab1ControlLibrary\obj\Debug\net8.0-windows\Lab1ControlLibrary.MyCustomControl.resources
+D:\KHAI\apz\lab1\Lab1Solution\Lab1ControlLibrary\obj\Debug\net8.0-windows\Lab1ControlLibrary.csproj.GenerateResource.cache
+D:\KHAI\apz\lab1\Lab1Solution\Lab1ControlLibrary\obj\Debug\net8.0-windows\Lab1ControlLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\KHAI\apz\lab1\Lab1Solution\Lab1ControlLibrary\obj\Debug\net8.0-windows\Lab1ControlLibrary.AssemblyInfoInputs.cache
+D:\KHAI\apz\lab1\Lab1Solution\Lab1ControlLibrary\obj\Debug\net8.0-windows\Lab1ControlLibrary.AssemblyInfo.cs
+D:\KHAI\apz\lab1\Lab1Solution\Lab1ControlLibrary\obj\Debug\net8.0-windows\Lab1ControlLibrary.csproj.CoreCompileInputs.cache
+D:\KHAI\apz\lab1\Lab1Solution\Lab1ControlLibrary\obj\Debug\net8.0-windows\Lab1ControlLibrary.dll
+D:\KHAI\apz\lab1\Lab1Solution\Lab1ControlLibrary\obj\Debug\net8.0-windows\refint\Lab1ControlLibrary.dll
+D:\KHAI\apz\lab1\Lab1Solution\Lab1ControlLibrary\obj\Debug\net8.0-windows\Lab1ControlLibrary.pdb
+D:\KHAI\apz\lab1\Lab1Solution\Lab1ControlLibrary\obj\Debug\net8.0-windows\ref\Lab1ControlLibrary.dll
